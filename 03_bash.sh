@@ -10,3 +10,4 @@ for ((i=1;i<=10;i++)) do
     letter=${arr[$j]}>>arr2
 done
 echo "$arr2"
+echo "hii world"
